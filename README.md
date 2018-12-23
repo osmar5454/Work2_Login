@@ -1,7 +1,7 @@
-# work2
+# Work2
 
 
-A new Flutter application.
+Flutter aplication about a simple Login, without Function , for while it's just frontend.
 
 ## Getting Started
 
